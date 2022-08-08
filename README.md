@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dhsiv
+- 👋 Hi, I’m David
 - 👀 I’m interested in Web Development / Design
 - 🌱 I’m currently gaining a better understanding of Javascript.
 - 💞️ I’m looking to collaborate on nothing at the moment.
